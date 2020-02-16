@@ -14,7 +14,7 @@ Utilize Python as well as the Pandas and Matplotlib libraries in Jupyter Noteboo
 
 2. Total Drivers: Same as Total Rides, Urban total drivers (2405) are more than Suburban total drivers (490), and Suburban total rides are more than Rural total rides (78).
 
-3.Total Fares: Similarly, Urban total fares ($39,584) are more than Suburban total fares ($19,356), and Suburban total fares are more than Rural total fares ($4,328).
+3. Total Fares: Similarly, Urban total fares ($39,584) are more than Suburban total fares ($19,356), and Suburban total fares are more than Rural total fares ($4,328).
 
 4. Average Fare per Ride: However, since Urban has way more than rides, the average fare per ride for Urban ($24.53) is less than Suburban ($30.97), and Suburban is less than Rural ($34.62).
 
