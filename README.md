@@ -7,7 +7,7 @@ Use Python and Matplotlib library to graph data in a dataframe.
 4. Determine mean, median, and mode using Pandas, NumPy, and SciPy statistics.
 
 ## Challenge Overview
-Utilize Python skills as well as the Pandas and Matplotlib libraries in Jupyter Notebook to create a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
+Utilize Python as well as the Pandas and Matplotlib libraries in Jupyter Notebook to create a summary table for the ride-sharing data per city type, and a multiple-line graph that shows the average fare per week by each city type.
 
 ## Challenge Summary
 1. Total Rides: It's not surprising that Urban total rides (1625) are more than Suburban total rides (625), and Suburban total rides are more than Rural total rides (125).
