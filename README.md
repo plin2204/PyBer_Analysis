@@ -20,4 +20,8 @@ Utilize Python as well as the Pandas and Matplotlib libraries in Jupyter Noteboo
 
 5. Average Fare per Driver: Similarly, due to more drivers in Urban, the average fare per driver for Urban ($16.57) is less than Suburban ($39.50), and Suburban is less than Rural ($55.49).
 
+![](Chart.PNG)
+
 6. Sum of Fare: From the multiple-Line chart, Urban has the most sum of fare, then Suburban, and lastly Rural. Besides that, it seems the difference between them stays almost the same over time. 
+
+![](Challenge.png)
