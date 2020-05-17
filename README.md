@@ -28,4 +28,4 @@ Create a summary table for the ride-sharing data per city type, and a multiple-l
 
 ![](Challenge.png)
 ---
-The code is in `PyBer_Challenge.ipynb`.
+The code is in [`PyBer_Challenge.ipynb`](https://github.com/plin2204/PyBer_Python/blob/master/PyBer_Challenge.ipynb).
